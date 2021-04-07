@@ -4,7 +4,7 @@ Repository for testing calls to the IDEAS simulator
 ## Installation
 Clone or download the repository and run 
 
-    pip install flusk
+    pip install flask
 
 ## Run
 From the project directory run 
